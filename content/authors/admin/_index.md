@@ -30,21 +30,19 @@ organizations:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      institution: King's College London and Imperial College London
+      year: ""
+    - course: MSc in Mathematics
+      institution: Leiden University and Paris-Sud University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Mathematics
+      institution: Leiden University
+      year: ""
 superuser: true
 highlight_name: true
 title: Nandi Schoots
 email: ""
 ---
-I'm looking for research questions that cut to the core of human understanding and hope to one day find natural laws that make highly specific predictions and apply in many contexts.
-
-My object-level interests are all over the place and include:
+I'm searching for research questions that cut to the core of human understanding and hope to one day find natural laws that make highly specific predictions and apply in many contexts. In the mean-time I'm working on a variety of projects that piqued my interest.
 
 I was one of the main organizers of the first [AI Safety Camp](https://aisafety.camp/) and this fall I'm hosting a retreat on Inductive Biases in Neural Networks.

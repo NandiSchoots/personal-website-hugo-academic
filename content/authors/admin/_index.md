@@ -4,11 +4,9 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - "* The Science of Deep Learning  * Understanding Inductive Biases of Neural
-    Networks * Emergent Communication * Using insight into human Theory of Mind"
+    Networks * Emergent Communication *Human Values *Theory of Mind"
   - decision-making
-  - reasoning
-  - learning and language understanding to inform the design and build of AI’s
-    with similar skills.
+  - reasoning...
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,7 +42,7 @@ highlight_name: true
 title: Nandi Schoots
 email: ""
 ---
-I'm eager to find research questions that cut to the core of human understanding and hope to one day find natural laws that make highly specific predictions and apply in many contexts.
+I'm looking for research questions that cut to the core of human understanding and hope to one day find natural laws that make highly specific predictions and apply in many contexts.
 
 My object-level interests are all over the place and include:
 

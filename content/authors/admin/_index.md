@@ -24,9 +24,7 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-organizations:
-  - name: King's College London
-  - name: Imperial College London
+organizations: []
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -34,7 +32,7 @@ education:
       year: ""
     - course: MSc in Mathematics
       institution: Leiden University and Paris-Sud University
-      year: 2009
+      year: ""
     - course: BSc in Mathematics
       institution: Leiden University
       year: ""

@@ -11,18 +11,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
 organizations:
   - name: Safe and Trusted AI
     url: https://safeandtrustedai.org/
@@ -30,7 +24,7 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: King's College London and Imperial College London
-      year: ""
+      year: 2024
     - course: MSc in Mathematics
       institution: Leiden University and Paris-Sud University
       year: ""

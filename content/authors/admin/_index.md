@@ -3,8 +3,7 @@ role: "PhD student "
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - The Science of Deep Learning
-  - Understanding Inductive Biases of Neural Networks
+  - Understanding Inductive Biases in Neural Networks
   - Emergent Communication
   - Human Values
   - Theory of Mind; decision-making; reasoning...

@@ -1,5 +1,5 @@
 ---
-role: Professor of Artificial Intelligence
+role: "PhD student "
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -23,8 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: King's College London
+  - name: Imperial College London
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -38,10 +38,10 @@ education:
       year: 2008
 superuser: true
 highlight_name: true
-title: Nelson Bighetti
+title: Nandi Schoots
 email: ""
 ---
-I am a third year PhD student in the Safe and Trusted AI research group at King's and Imperial College London. I'm eager to find research questions that cut to the core of human understanding and hope to one day find natural laws that make highly specific predictions and apply in many contexts.
+I'm eager to find research questions that cut to the core of human understanding and hope to one day find natural laws that make highly specific predictions and apply in many contexts.
 
 My object-level interests are all over the place and include:
 

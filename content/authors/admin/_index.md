@@ -24,7 +24,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-organizations: []
+organizations:
+  - name: Safe and Trusted AI
+    url: https://safeandtrustedai.org/
 education:
   courses:
     - course: PhD in Artificial Intelligence

@@ -13,10 +13,10 @@ social:
     link: nandischoots@gmail.com
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=wO7fg6wAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/NandiSchoots
 organizations:
   - name: Safe and Trusted AI
     url: https://safeandtrustedai.org/

@@ -16,4 +16,4 @@ My object-level interests are all over the place and include:
 * Emergent Communication
 * Using insight into human Theory of Mind, decision-making, reasoning, learning and language understanding to inform the design and build of AI’s with similar skills. 
 
-I was one of the main organizers of the first [AI Safety Camp](https://aisafety.camp/) and this fall I hosted a retreat on Inductive Biases in Neural Networks.
+I was one of the main organizers of the first [AI Safety Camp](https://aisafety.camp/) and fall 2022 I hosted a retreat on Inductive Biases in Neural Networks.

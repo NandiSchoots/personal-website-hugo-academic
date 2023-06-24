@@ -1,10 +1,9 @@
 ---
 role: "PhD student "
 avatar_filename: 20221122_110838__01__01-1-.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Understanding Inductive Biases in Neural Networks
+  - Inductive Biases in Neural Networks
   - Emergent Communication
   - Human Values
   - Theory of Mind; decision-making; reasoning...

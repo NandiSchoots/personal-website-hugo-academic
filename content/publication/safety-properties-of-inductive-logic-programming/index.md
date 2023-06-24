@@ -6,6 +6,7 @@ authors:
   - Gavin Leech*
   - Nandi Schoots*
   - Joar Skalse
+publication: AAAI workshop on AI Safety
 draft: false
 featured: false
 image:

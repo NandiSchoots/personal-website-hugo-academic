@@ -1,5 +1,6 @@
 ---
 role: "PhD student "
+avatar_filename: 20221122_110838__01__01-1-.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

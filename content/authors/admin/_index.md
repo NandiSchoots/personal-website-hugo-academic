@@ -1,6 +1,6 @@
 ---
 role: "PhD student "
-avatar_filename: 20221122_110838__01__01-1-.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Inductive Biases in Neural Networks

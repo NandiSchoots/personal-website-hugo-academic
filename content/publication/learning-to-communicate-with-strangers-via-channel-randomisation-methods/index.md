@@ -8,7 +8,7 @@ authors:
   - Nandi Schoots*
 publication_types:
   - "0"
-publication_short: In NeurIPS workshop - Emergent Communication 2020
+publication_short: In NeurIPS workshop - Emergent Communication
 draft: false
 featured: false
 url_pdf: 'https://arxiv.org/abs/2104.09557'

@@ -9,7 +9,7 @@ publication_types:
 publication_short: In ICLR workshop - Domain Generalization 2023
 draft: false
 featured: false
-url: 'https://arxiv.org/pdf/2305.12238.pdf'
+url_pdf: 'https://arxiv.org/pdf/2305.12238.pdf'
 image:
   filename: featured
   focal_point: Smart

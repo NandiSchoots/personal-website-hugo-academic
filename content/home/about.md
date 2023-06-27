@@ -8,7 +8,7 @@ weight: 20
 title: Biography
 design:
   background:
-    image: _img_57389d995759d3f30612_pers_foto_352_150.png
+    image: ""
 ---
 I am a PhD student in the Safe and Trusted AI research group at King's and Imperial College London. I'm eager to find research questions that cut to the core of human understanding and hope to one day find natural laws that make highly specific predictions and apply in many contexts. 
 

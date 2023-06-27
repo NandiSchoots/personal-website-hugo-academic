@@ -1,11 +1,9 @@
 ---
-title: " Learning to Communicate with Strangers via Channel Randomisation Methods"
-date: '2020-12-12T00:00:00Z'
-publication_types:
-  - "0"
+title: "Learning to Communicate with Strangers via Channel Randomisation Methods"
 authors:
   - Dylan Cope*
   - Nandi Schoots*
+date: '2020-12-12T00:00:00Z'
 publication_types:
   - "0"
 publication_short: In NeurIPS workshop - Emergent Communication

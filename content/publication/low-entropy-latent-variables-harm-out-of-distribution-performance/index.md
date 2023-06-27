@@ -6,7 +6,7 @@ authors:
 date: '2023-05-04T00:00:00Z'
 publication_types:
   - "0"
-publication_short: In ICLR workshop - Domain Generalization 2023
+publication_short: In ICLR workshop - Domain Generalization
 draft: false
 featured: false
 url_pdf: 'https://arxiv.org/pdf/2305.12238.pdf'

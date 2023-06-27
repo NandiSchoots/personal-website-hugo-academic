@@ -9,7 +9,7 @@ authors:
 date: '2023-07-24T00:00:00Z'
 publication_types:
   - "0"
-publication_short: In ALIFE 2023
+publication_short: In ALIFE
 draft: false
 featured: false
 url_pdf: ''

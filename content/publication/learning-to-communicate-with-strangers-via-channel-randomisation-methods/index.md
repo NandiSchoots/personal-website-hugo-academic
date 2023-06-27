@@ -1,5 +1,5 @@
 ---
-title: "Learning to Communicate with Strangers via Channel Randomisation Methods"
+title: Learning to Communicate with Strangers via Channel Randomisation Methods
 authors:
   - Dylan Cope*
   - Nandi Schoots*

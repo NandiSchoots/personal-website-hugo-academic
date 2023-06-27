@@ -1,5 +1,5 @@
 ---
-role: "PhD student "
+role: "PhD student"
 avatar_filename: avatar.jpg
 bio: ""
 interests:

@@ -1,5 +1,5 @@
 ---
-title: "Safety Properties of Inductive Logic Programming "
+title: "Safety Properties of Inductive Logic Programming"
 authors:
   - Gavin Leech*
   - Nandi Schoots*

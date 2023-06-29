@@ -33,12 +33,12 @@ content:
     postcode: 'WC2B 4BG'
     country: United Kingdom
     country_code: UK
-  appointment_url: '[https://calendly.com](https://calendly.com/nandischoots-1/60min)'
+  appointment_url: 'https://calendly.com/nandischoots-1/60min'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: '[https://twitter.com/Twitter](https://twitter.com/NandiSchoots)'
+      link: 'https://twitter.com/NandiSchoots'
 
 design:
   columns: '2'

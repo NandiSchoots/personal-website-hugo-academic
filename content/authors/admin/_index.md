@@ -1,5 +1,5 @@
 ---
-role: "PhD student"
+role: PhD student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -38,4 +38,4 @@ email: ""
 ---
 I'm searching for research questions that cut to the core of human understanding and hope to one day find natural laws that make highly specific predictions and apply in many contexts. In the mean-time I'm working on a variety of projects that piqued my interest.
 
-I was one of the main organizers of the first [AI Safety Camp](https://aisafety.camp/) and this fall I'm hosting a retreat on Inductive Biases in Neural Networks.
+I was one of the main organizers of the first [AI Safety Camp](https://aisafety.camp/).

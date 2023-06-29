@@ -3,9 +3,8 @@ role: PhD student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
+  - The Science of Deep Learning
   - Inductive Biases in Neural Networks
-  - Emergent Communication
-  - Human Values
   - Theory of Mind; decision-making; reasoning...
 social:
   - icon: envelope

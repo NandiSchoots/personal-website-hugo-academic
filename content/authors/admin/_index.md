@@ -1,8 +1,7 @@
 ---
 bio: ""
 interests:
-  - Science of Deep Learning
-  - and (Implicit) Inductive Biases in Neural Networks
+  - Science of Deep Learning and (Implicit) Inductive Biases in Neural Networks
   - Machine Unlearning and Activation Steering
   - Societal Impacts of AI and AI Safe
 organizations: []

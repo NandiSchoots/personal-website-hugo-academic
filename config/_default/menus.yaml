@@ -19,6 +19,9 @@ main:
   - name: Selected work
     url: '/publications'
     weight: 50
+  - name: Thesis
+    url: '/thesis'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60

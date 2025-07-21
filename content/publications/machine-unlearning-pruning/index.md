@@ -1,7 +1,7 @@
 ---
 slug: machine-unlearning-pruning
 title: 'Dissecting Language Models: Machine Unlearning via Selective Pruning  '
-publication_short: SoLaR @ NeurIPS
+publication_short: SoLaR @NeurIPS
 authors:
 - Nicholas Pochinkov
 - Nandi Schoots

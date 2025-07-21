@@ -16,9 +16,9 @@ main:
   #- name: Talks
   #  url: '#talks'
   #  weight: 40
-  - name: Selected work
-    url: '/publications'
-    weight: 50
+  # - name: Selected work
+  #   url: '/publications'
+  #   weight: 50
   - name: Thesis
     url: '/thesis'
     weight: 50

@@ -10,8 +10,8 @@ profiles:
   - icon: at-symbol
     url: mailto:nandischoots@gmail.com
     label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/NandiSchoots
+  # - icon: brands/github
+  #   url: https://github.com/NandiSchoots
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=wO7fg6wAAAAJ
   - icon: brands/x

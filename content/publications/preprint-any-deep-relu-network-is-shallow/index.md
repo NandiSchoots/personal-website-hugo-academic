@@ -1,11 +1,11 @@
 ---
-title: Any Deep ReLU Network is Shallow
+title: 'Any Deep ReLU Network is Shallow  '
 authors:
   - Mattia Jacopo Villani
   - Nandi Schoots
 publication_types:
   - "0"
-publication_short: (Preprint)
+publication_short: ECAI
 draft: false
 featured: false
 url_pdf: 'https://arxiv.org/abs/2306.11827'

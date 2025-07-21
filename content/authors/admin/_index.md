@@ -31,7 +31,10 @@ I was one of the main organizers of the first [AI Safety Camp](https://aisafety.
 
 ### Interests
 
+<div style="color:black">
+
 - Science of Deep Learning and (Implicit) Inductive Biases in Neural Networks
 - Machine Unlearning and Activation Steering
 - Societal Impacts of AI and AI Safe
 
+</div>

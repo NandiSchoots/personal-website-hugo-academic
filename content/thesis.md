@@ -11,8 +11,9 @@ design:
 
 # PhD Thesis: Untangling Neural Networks
 
-In this thesis, we \`\`untangle'' neural networks, in a broad and metaphorical sense of the word: uncovering the implicit inductive biases imposed on them during training and   
-adapting neural networks to make them more controllable. We aim to advance the science of deep learning, so that we expand our knowledge and understanding of deep learning’s inductive biases and of levers on neural networks’ size and representations in general.
+In this thesis, we \`\`untangle'' neural networks, in a broad and metaphorical sense of the word: uncovering the implicit inductive biases imposed on them during training and adapting neural networks to make them more controllable. We aim to advance the science of deep learning, so that we expand our knowledge and understanding of deep learning’s inductive biases and of levers on neural networks’ size and representations in general.
+
+Find my thesis here: 
 
 ## Understanding Redundancy in Neural Networks
 

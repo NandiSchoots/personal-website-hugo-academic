@@ -1,9 +1,5 @@
 ---
 bio: ""
-interests:
-  - Science of Deep Learning and (Implicit) Inductive Biases in Neural Networks
-  - Machine Unlearning and Activation Steering
-  - Societal Impacts of AI and AI Safe
 organizations: []
 superuser: true
 profiles:
@@ -32,3 +28,10 @@ I'm searching for research questions that cut to the core of human understanding
 I am an [FLI](<https://futureoflife.org/grant-program/postdoctoral-fellowships/ >) postdoctoral researcher in Alessandro Abate’s [OXCAV](https://oxcav.web.ox.ac.uk/) group at the University of Oxford. Previously, I did my PhD in the [STAI](https://safeandtrustedai.org/) group under supervision of Peter McBurney (King’s College London) and Murray Shanahan (Imperial College London, DeepMind). 
 
 I was one of the main organizers of the first [AI Safety Camp](https://aisafety.camp/).
+
+### Interests
+
+- Science of Deep Learning and (Implicit) Inductive Biases in Neural Networks
+- Machine Unlearning and Activation Steering
+- Societal Impacts of AI and AI Safe
+
